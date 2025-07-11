@@ -89,12 +89,18 @@ I'm a passionate Flutter developer who loves creating beautiful, cross-platform 
 ## 🌟 Featured Projects
 
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oginoino&repo=montreal&theme=radical&hide_border=true)](https://github.com/oginoino/montreal)
-**Montreal** - A Flutter application showcasing modern mobile development practices with Dart
 
+### 📱 Montreal
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oginoino&repo=montreal&theme=radical&hide_border=true)](https://github.com/oginoino/montreal)
+
+*A Flutter application showcasing modern mobile development practices with Dart*
+
+---
+
+### 🛒 Camilo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oginoino&repo=camilo&theme=radical&hide_border=true)](https://github.com/oginoino/camilo)
-**Camilo** - Marketplace application built with Flutter, demonstrating e-commerce functionality and cross-platform development
+
+*Marketplace application built with Flutter, demonstrating e-commerce functionality and cross-platform development*
 
 </div>
 

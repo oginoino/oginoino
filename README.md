@@ -15,7 +15,7 @@ I'm a passionate Flutter developer who loves creating beautiful, cross-platform 
 - 👯 I'm looking to collaborate on **Flutter projects** and mobile app innovations
 - 🤔 I'm looking for help with **complex Flutter animations** and performance optimization
 - 💬 Ask me about **Flutter, Dart, mobile development, and cross-platform solutions**
-- 📫 How to reach me: **[Your preferred contact method]**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ginaldolaranjeiras/)**
 - ⚡ Fun fact: **I believe Flutter makes mobile development as smooth as butter! 🧈**
 
 ## 🛠️ Tech Stack
